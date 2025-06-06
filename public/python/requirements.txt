@@ -1,0 +1,5 @@
+flask
+google-generativeai
+pandas
+nltk
+scikit-learn
